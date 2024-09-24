@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Inter,sans-serif;
+    color: #dddddd;
+}
+
+header{
+    margin: 0;
+    background: url('images2/1page.png');
+    background-size: cover;
+    height: 750px;
+}
+.navbar-custom {
+      background-color: rgba(0, 0, 0, 0.6);
+      backdrop-filter: blur(10px);
+    }
+nav {
+    text-align: left;
+    padding: 20px;
+    font-family: Inter,sans-serif;
+}
+.container{
+    padding-top: 350px;
+}
+h1{
+    font-family: Mak, cursive;
+    font-size: 70px;
+}
+h2{
+    font-family: "Island Moments", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+}
