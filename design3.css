@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding:0;
+}
+body{
+    background-color: black;
+    color:white;
+}
+h1{
+    font-family: Mak, sans-serif;
+    text-align: center;
+
+}
+h2{
+    font-family: Inter, sans-serif;
+    text-align: center;
+}
+.custom-carousel {
+          max-width: 700px;
+          margin: 0 auto;
+
+      }
+      .carousel-item img {
+          height: 500px;
+          object-fit: cover;
+      }
+ h3{
+     font-family: Mak, sans-serif;
+     padding-top: 50px;
+ }
+.btn{
+    background-color: #000;
+    color: #fff;
+    margin-left: 112px;
+}
+.btn a{
+   text-decoration: none;
+    color: #fff;
+}
